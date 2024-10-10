@@ -1,0 +1,7 @@
+# Webapp gitignores
+**/node_modules/
+
+# Ignore model paths
+**/*.pth
+**/output*/
+**/data/
