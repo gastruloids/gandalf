@@ -1,6 +1,6 @@
 # RingRodeo: domain-specific segmentation of Rod/Ring Structures in Stem Cells
 
-This repository is the official implementation of [RingRodeo](<paper link>).
+This repository is the official implementation of [RingRodeo](<https://doi.org/10.1101/2024.10.16.617897>).
 
 We include the code for training the model, as well as an accompanying webapp for easy interaction with models for feedback.
 
